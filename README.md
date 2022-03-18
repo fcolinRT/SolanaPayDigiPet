@@ -1,6 +1,7 @@
 # Loyalty Program done the right way for WEB3
 ### DigiPets
 
+### Today 
 Loyalty programs will change the way we interact with a business. 
 However, giving discounts devalues a business as a cheap alternative. 
 A business doesn't get a customer after offering a discount but a bargain finder which will not be a loyal customer. 
@@ -9,7 +10,8 @@ and asking businesses to get another tablet and train their staff on a new devic
 Not an ideal incentive for the merchant. 
 ## We need a win-win strategy. 
 
-## Instead, let's gamify the loyalty program while educating new adopters. 
+### Loyalty Programs of the Future with DigiPets
+Instead, let's gamify the loyalty program while educating new adopters. 
 Imagine Tamagotchi and foursquare together.
 
 When you come and pay using Solana Pay for the first time, you get an egg, congrats on your first NFT! 
