@@ -1,5 +1,4 @@
-# Loyalty Program done the right way! 
-## The loyalty program done for WEB3
+# Loyalty Program done the right way for WEB3
 ### DigiPets
 
 Loyalty programs will change the way we interact with a business. 
