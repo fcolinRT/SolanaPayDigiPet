@@ -8,7 +8,7 @@ A business doesn't get a customer after offering a discount but a bargain finder
 Today more than ever, businesses CAN NOT afford discounts; margins are already low, cost of goods high, labor is hard to find
 and asking businesses to get another tablet and train their staff on a new device to take crypto and give away discounts. 
 Not an ideal incentive for the merchant. 
-## We need a win-win strategy. 
+#### We need a win-win strategy. 
 
 ### Loyalty Programs of the Future with DigiPets
 Instead, let's gamify the loyalty program while educating new adopters. 
