@@ -1,7 +1,7 @@
 # Loyalty Program done the right way for WEB3
 ### DigiPets
 
-### Today 
+### Why we built it  
 Loyalty programs will change the way we interact with a business. 
 However, giving discounts devalues a business as a cheap alternative. 
 A business doesn't get a customer after offering a discount but a bargain finder which will not be a loyal customer. 
