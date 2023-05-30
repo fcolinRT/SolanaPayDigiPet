@@ -1,1 +1,30 @@
-Test 
+# Sprint 1 through 7 Documentation
+
+This documentation provides an overview of Sprints 1 through 7 of a project. It outlines the key objectives, features, and progress made during each sprint.
+
+## Sprint 1
+
+### Objective:
+The objective of Sprint 1 was to set up the project infrastructure, define the development environment, and establish initial project requirements.
+
+### Key Features:
+1. Project repository creation on GitHub.
+2. Configuration of development tools and environment setup.
+3. Initial project planning and requirement gathering.
+
+### Progress:
+During Sprint 1, the team successfully created the project repository on GitHub and set up the necessary development tools. Initial project planning was conducted, and requirements were gathered from stakeholders.
+
+## Sprint 2
+
+### Objective:
+The objective of Sprint 2 was to implement the core functionalities of the project based on the gathered requirements.
+
+### Key Features:
+1. User authentication and registration system.
+2. Database schema design and implementation.
+3. Basic CRUD (Create, Read, Update, Delete) operations.
+
+### Progress:
+In Sprint 2, the team developed the user authentication and registration system. The database schema was designed and implemented to support the project requirements. Basic CRUD operations were also implemented.
+
